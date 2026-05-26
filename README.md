@@ -63,5 +63,9 @@ This project was created as a beginner Python project to practice:
 * Password generation feature
 * Exporting results to a file
 
+## Author
+
+Manushka Raghav
+
 ```
 ```
